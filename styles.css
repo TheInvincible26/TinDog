@@ -1,0 +1,193 @@
+#title
+{
+    background-color: #ff414d;  
+    color: #fff;
+}
+
+h1{
+    font-family: 'Montserrat';
+    font-size: 2.5rem;
+     line-height: 1.5; 
+}
+
+body{
+    font-family: 'Montserrat';
+}
+
+.container-fluid
+{
+padding: 4% 15%;
+}
+
+.download-button
+{
+margin: 5% 3% 5% 0;
+}
+
+.navbar
+{
+padding: 0 0 100px 0;
+}
+
+.navbar-brand 
+{
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    font-size: 1.9rem;
+    
+}
+
+.nav-item
+{
+padding: 0 18px;
+
+}
+
+.nav-link
+{
+    font-family: 'Montserrat';
+    
+}
+
+.img-dog
+{
+width: 60%;
+transform: rotate(25deg); 
+
+padding-top: 25px;
+
+}
+
+#features 
+{
+padding: 10% 20%;
+text-align: center;
+}
+
+.box
+{
+    text-align: center;
+    padding: 5%;
+}
+
+.icons
+{
+    padding-bottom: 1.3rem;
+    color: #c84b31;
+}
+
+.icons:hover
+{
+    color: red;
+}
+
+
+p {
+font-weight: lighter;
+ color: #8f8f8f;
+ font-family: 'Montserrat', sans-serif;
+}
+
+#testimonials {
+    
+    text-align: center;
+    background-color: #ef8172;
+}
+
+.dog-circle{
+    border-radius: 100%;
+    margin: 1.5rem;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+h2{
+    font-family: 'Montserrat';
+    font-size: 1.85rem;
+     line-height: 1.5; 
+     color: #fff;
+     font-weight: bold;
+} 
+
+.imgd{
+    margin: 20px 20px ;
+}
+
+.testimonial-text{
+    font-family: 'Montserrat';
+    font-size: 1.85rem;
+     line-height: 1.5; 
+     color: #fff;
+     font-weight: bold;
+
+
+}
+
+.carousel-item{
+    padding: 12% 20%;
+
+}
+
+#pricing {
+    padding: 100px;
+
+    text-align: center;
+
+
+}
+ .col-dog
+ {
+     color: black;
+     font-size: 2.5rem;
+ }
+
+.card-sep{
+
+    padding: 3% 2%;
+}
+
+@media (max-width: 1028px)
+{
+    #title {
+        text-align: center;
+    
+    }
+
+    .img-dog{
+        transform: rotate(0); 
+    }
+}
+
+#cta { 
+    background-color: #ff414d;
+    padding: 7% 14%;
+    color: #fff;
+    text-align: center;
+}
+
+.cta-moto{
+    font-family: 'Montserrat';
+    font-size: 3.5rem;
+     line-height: 1.5;  
+}
+
+#footer{
+     text-align: center;
+     padding: 7% 14% ;
+}
+
+
+.fa-3x
+{
+    margin: 20px 20px;
+    padding-bottom: 5%;
+}
+
+.pay 
+{
+    color: black;
+}
